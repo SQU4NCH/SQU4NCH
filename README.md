@@ -1,6 +1,7 @@
 ## Sou estudante de Segurança ofensiva, Ehtical Hacking e CTF Player
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQU4NCH&layout=compact&count_private=true)
+            
 ##
 ### Habilidades e Linguagens  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
@@ -11,6 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ##
 <a href="https://www.linkedin.com/in/leonardo-teodoro-48a4b1204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
 ##
 <div align="center">
             
