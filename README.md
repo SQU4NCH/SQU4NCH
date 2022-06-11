@@ -1,4 +1,4 @@
-## Sou estudante de Segurança ofensiva, Ehtical Hacking e CTF Player
+## Sou Analista de Red Team e CTF Player
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQU4NCH&layout=compact&count_private=true)
             
