@@ -1,7 +1,13 @@
-## Sou Analista de Red Team e CTF Player
+### ~$ Whoami
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SQU4NCH&layout=compact&count_private=true)
-            
+Sou Analista de Red Team e Pentester
+##
+### ~$ Educação
+- Graduado em Defesa Cibernética
+- Curso de Extensão em Cyberwarfare and Terrorism
+- Pós-graduação em Segurança Ofensiva e Inteligência Cibernética
+- Especialização em Ethical Hacking e CyberSecurity
+       
 ##
 ### Habilidades e Linguagens  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
