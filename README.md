@@ -1,6 +1,6 @@
 ### ~$ Whoami
 
-Sou Analista de Red Team e Pentester
+Analista de Red Team e Pentester
 
 ##
 ### ~$ Educação
