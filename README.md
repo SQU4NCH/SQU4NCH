@@ -8,7 +8,11 @@ Analista de Red Team e Pentester
 - Curso de Extensão em Cyberwarfare and Terrorism
 - Pós-graduação em Segurança Ofensiva e Inteligência Cibernética
 - Especialização em Ethical Hacking e CyberSecurity
-       
+
+##
+### ~$ Certificações
+DCPT
+
 ##
 ### ~$ Skills e Linguagens  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
