@@ -11,7 +11,8 @@ Analista de Red Team e Pentester
 
 ##
 ### ~$ Certificações
-DCPT
+- DCPT - Desec Certified Penetration Tester
+- CAP - Certified AppSec Practitioner
 
 ##
 ### ~$ Skills e Linguagens  
