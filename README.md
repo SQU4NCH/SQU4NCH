@@ -12,6 +12,7 @@ Analista de Red Team e Pentester
 ##
 ### ~$ Certificações
 - DCPT - Desec Certified Penetration Tester
+- eJPT - eLearnSecurity Junior Penetration Tester
 - CAP - Certified AppSec Practitioner
 
 ##
