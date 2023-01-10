@@ -16,6 +16,10 @@ Analista de Red Team e Pentester
 - CAP - Certified AppSec Practitioner
 
 ##
+### ~$ CVEs
+CVE-2023-0125
+
+##
 ### ~$ Skills e Linguagens  
 ![CyberSecurity](https://img.shields.io/badge/-CyberSecurity-05122A?style=flat&logo=hackaday&color=black)&nbsp;
 ![RedTeam](https://img.shields.io/badge/RedTeam-FF0000?style=flat&logo=hackaday&logoColor=white)&nbsp;
