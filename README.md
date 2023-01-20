@@ -1,6 +1,6 @@
 ### ~$ Whoami
 
-Analista de Red Team e Pentester
+- Analista de Red Team e Pentester
 
 ##
 ### ~$ Educação
@@ -17,7 +17,7 @@ Analista de Red Team e Pentester
 
 ##
 ### ~$ CVEs
-CVE-2023-0125
+- CVE-2023-0125
 
 ##
 ### ~$ Skills e Linguagens  
