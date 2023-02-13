@@ -4,6 +4,7 @@
 
 ##
 ### ~$ Educação
+- Cursando Ciência da Computação
 - Graduado em Defesa Cibernética
 - Curso de Extensão em Cyberwarfare and Terrorism
 - Pós-graduação em Segurança Ofensiva e Inteligência Cibernética
