@@ -13,6 +13,7 @@
 ##
 ### ~$ Certificações
 - DCPT - Desec Certified Penetration Tester
+- SCWAP - Sec4US Certified Web API Pentester
 - eJPT - eLearnSecurity Junior Penetration Tester
 - CAP - Certified AppSec Practitioner
 
