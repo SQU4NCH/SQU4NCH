@@ -37,10 +37,3 @@
 ### ~$ Social
 <a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
-
-##
-<div align="center">
-            
-![Snake animation](https://github.com/SQU4NCH/SQU4NCH/blob/output/github-contribution-grid-snake.svg)
-
-</div>
