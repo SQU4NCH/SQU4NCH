@@ -4,7 +4,7 @@
 
 - I'm a Red Team Analyst and Pentester
 - I'm studying Web Hacking, Web API and Mobile Exploitation
-- I write articles on <a href="https://squ4nch.github.io/" target="_blank">https://squ4nch.github.io/</a> (Only in Portuguese)
+- I write articles on [https://squ4nch.github.io/](https://squ4nch.github.io/) (Only in Portuguese)
 
 ##
 ### ~$ Formal Education
@@ -39,5 +39,6 @@
 
 ##
 ### ~$ Social
+![https://www.linkedin.com/in/leo-teodoro/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
