@@ -1,17 +1,21 @@
+# Hi, I'm Leonardo Teodoro (SQU4NCH)
+
 ### ~$ Whoami
 
-- Analista de Red Team e Pentester
+- I'm a Red Team Analyst and Pentester
+- I'm studying Web Hacking, Web API and Mobile Exploitation
+- I write articles on <a href="https://squ4nch.github.io/" target="_blank">https://squ4nch.github.io/</a> (Only in Portuguese)
 
 ##
-### ~$ Educação
-- Cursando Ciência da Computação
-- Graduado em Defesa Cibernética
-- Curso de Extensão em Cyberwarfare and Terrorism
-- Pós-graduação em Segurança Ofensiva e Inteligência Cibernética
-- Especialização em Ethical Hacking e CyberSecurity
+### ~$ Formal Education
+- Undergraduate in Computer Science
+- Degree in Cyber Defense
+- University extension in Cyberwarfare and Terrorism
+- Postgraduate Degree in Offensive Security and Cyber Intelligence
+- Postgraduate Degree in Ethical Hacking and CyberSecurity
 
 ##
-### ~$ Certificações
+### ~$ Some Certifications
 - DCPT - Desec Certified Penetration Tester
 - SCWAP - Sec4US Certified Web API Pentester
 - eJPT - eLearnSecurity Junior Penetration Tester
