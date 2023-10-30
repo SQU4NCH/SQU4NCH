@@ -9,7 +9,6 @@
 
 ##
 ### ~$ Formal Education
-- Undergraduate in Computer Science
 - Degree in Cyber Defense
 - University extension in Cyberwarfare and Terrorism
 - Postgraduate Degree in Offensive Security and Cyber Intelligence
