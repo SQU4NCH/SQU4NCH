@@ -17,6 +17,8 @@
 ##
 ### ~$ Some Certifications
 <p align="left">
+    <!-- <img src="https://security.ine.com/wp-content/uploads/2023/08/eWPTX.png" alt="ewptx" width="60" height="75"/>
+    <img src="https://security.ine.com/wp-content/uploads/2023/08/eMAPT.png" alt="emapt" width="60" height="75"/> -->
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="ejptv2" width="60" height="75"/>
     <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="scmpa" width="70" height="70"/>
     <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="scwap" width="70" height="70"/> 
