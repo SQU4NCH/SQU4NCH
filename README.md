@@ -28,6 +28,8 @@
 ##
 ### ~$ CVEs
 - CVE-2023-0125
+- CVE-2024-2479
+- CVE-2024-2480
 
 ##
 ### ~$ Skills e Linguagens  
