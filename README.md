@@ -27,11 +27,11 @@
 
 ##
 ### ~$ CVEs
-- CVE-2023-0125
-- CVE-2024-2479
-- CVE-2024-2480
-- CVE-2024-29637
-- CVE-2024-29638
+- CVE-2023-0125 | https://www.cve.org/CVERecord?id=CVE-2023-0125
+- CVE-2024-2479 | https://www.cve.org/CVERecord?id=CVE-2024-2479
+- CVE-2024-2480 | https://www.cve.org/CVERecord?id=CVE-2024-2480
+- CVE-2024-29637 | RESERVED
+- CVE-2024-29638 | RESERVED
 
 ##
 ### ~$ Skills e Linguagens  
