@@ -4,7 +4,7 @@
 
 - I'm a Cyber Security Auditor and Pentester
 - Studying web hacking, web API security, and mobile exploitation
-- Currently preparing for the eWPTX and OSWE certifications
+- Currently preparing for the OSWE certifications
 - I write articles on <a href="https://squ4nch.github.io/" target="_blank">https://squ4nch.github.io/</a> (Only in Portuguese)
 
 ##
