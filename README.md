@@ -3,8 +3,8 @@
 ### ~$ Whoami
 
 - I'm a Pentester Specialist
-- Studying web hacking, web API security, and mobile exploitation
-- Currently preparing for the OSWE certifications
+- Experienced in web hacking, web API security, and mobile exploitation
+- Currently refining my skills in C, Assembly, exploit development, and malware development
 - I write articles on <a href="https://squ4nch.github.io/" target="_blank">https://squ4nch.github.io/</a> (Only in Portuguese)
 
 ##
@@ -47,6 +47,7 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 ##
-### ~$ Social
+### ~$ Connect with me
+
 <a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
