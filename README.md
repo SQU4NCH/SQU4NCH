@@ -23,7 +23,7 @@
     <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="scmpa" width="70" height="70"/>
     <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="scwap" width="70" height="70"/> 
     <img src="https://squ4nch.github.io/assets/images/main/dcpt-logo.png" alt="dcpt" width="80" height="40"/> <br>
-    <img src="https://squ4nch.github.io/assets/images/main/logopentestplus.svg" alt="pentest+" width="90"/>
+    <img src="https://squ4nch.github.io/assets/images/main/PenTest+.png" alt="pentest+"  width="90"/>    
     
 </p>
 
