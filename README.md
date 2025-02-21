@@ -1,7 +1,7 @@
 # Hi, I'm Leonardo Teodoro (SQU4NCH)
+<img src="https://github.com/SQU4NCH/SQU4NCH/blob/main/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 ### ~$ Whoami
-
 - I'm a Pentester Specialist
 - Experienced in web hacking, web API security, and mobile exploitation
 - Currently refining my skills in C, Assembly, exploit development, and malware development
@@ -20,10 +20,11 @@
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eWPTX.png" alt="ewptx" width="60" height="75"/>
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eMAPT.png" alt="emapt" width="60" height="75"/>
     <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="ejptv2" width="60" height="75"/>
+    <img src="https://squ4nch.github.io/assets/images/main/PenTest+.png" alt="pentest+" width="90" height="95"/>  
     <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="scmpa" width="70" height="70"/>
     <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="scwap" width="70" height="70"/> 
-    <img src="https://squ4nch.github.io/assets/images/main/dcpt-logo.png" alt="dcpt" width="80" height="40"/> <br>
-    <img src="https://squ4nch.github.io/assets/images/main/PenTest+.png" alt="pentest+"  width="90"/>    
+    <img src="https://squ4nch.github.io/assets/images/main/dcpt-logo.png" alt="dcpt" width="80" height="40"/>
+      
     
 </p>
 
@@ -51,5 +52,6 @@
 ##
 ### ~$ Connect with me
 
-<a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://x.com/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
 <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
