@@ -9,25 +9,10 @@
 
 ##
 ### ~$ Formal Education
-- Degree in Cyber Defense
-- University extension in Cyberwarfare and Terrorism
+- Master's Degree in Computer Science
 - Postgraduate Degree in Offensive Security and Cyber Intelligence
 - Postgraduate Degree in Ethical Hacking and CyberSecurity
-- Master's Degree in Computer Science
-
-##
-### ~$ Some Certifications
-<p align="left">
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eWPTX.png" alt="ewptx" width="60" height="75"/>
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eMAPT.png" alt="emapt" width="60" height="75"/>
-    <img src="https://security.ine.com/wp-content/uploads/2023/08/eJPT-1.png" alt="ejptv2" width="60" height="75"/>
-    <img src="https://squ4nch.github.io/assets/images/main/PenTest+.png" alt="pentest+" width="90" height="95"/>  
-    <img src="https://sec4us.com.br/static/images/logo-scmpa.png" alt="scmpa" width="70" height="70"/>
-    <img src="https://sec4us.com.br/static/images/logo-scwap.png" alt="scwap" width="70" height="70"/> 
-    <img src="https://squ4nch.github.io/assets/images/main/dcpt-logo.png" alt="dcpt" width="80" height="40"/>
-      
-    
-</p>
+- Degree in Cyber Defense
 
 ##
 ### ~$ CVEs
