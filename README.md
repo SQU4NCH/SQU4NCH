@@ -5,7 +5,7 @@
 > “I am just a child who has never grown up. I still keep asking these ‘how’ and ‘why’ questions. Occasionally, I find an answer.”<br>
 ><p align="right">― Stephen Hawking</p>
 
-I'm a pentester specialist with experience in Web Hacking, Web API Security, and Mobile Exploitation. I'm a low-level programming and exploit development enthusiast, and I have been improving my skills in this area over the last years.
+I'm a pentester with experience in Web Hacking, Web API Security, and Mobile Exploitation. I'm a low-level programming and exploit development enthusiast, and I have been improving my skills in this area over the last years.
 
 Outside of work, I like to play CTF and participate in conferences like H2HC, BSides, etc...
 
