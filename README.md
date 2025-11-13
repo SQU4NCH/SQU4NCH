@@ -17,3 +17,5 @@ Feel free to reach out:
 <a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://x.com/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a>
+
+whoami; pwd
