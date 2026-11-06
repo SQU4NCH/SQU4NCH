@@ -29,7 +29,7 @@ I hold a Degree in Cyber Defense, and I am currently pursuing an M.Sc. in Comput
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[androguard-js](https://github.com/SQU4NCH/androguard-js)** | JavaScript library for static & dynamic Android analysis: APK/DEX/ODEX/AXML/ARSC parsing, 224-opcode Dalvik disassembler, pseudo-Java decompiler, SQLite session state, and Frida integration. | `JavaScript` `Node.js` `Frida` |
-| **[WebCacheDeceptionScanner](https://github.com/SQU4NCH/WebCacheDeceptionScanner)** | Fast, concurrent, zero-dependency scanner for detecting Web Cache Deception and URL normalization discrepancies between CDNs and origin servers. | `JavaScript` `Node.js` |
+| **[ios-pentest-setup](https://github.com/SQU4NCH/ios-pentest-setup)** | One-click iOS pentesting environment setup for Linux, Windows, and palera1n-jailbroken iPhones over USB. | `Shell` `PowerShell` |
 | **[CrawAu](https://github.com/SQU4NCH/CrawAu)** | Automated web reconnaissance and information gathering tool for penetration testing engagements. | `Python` |
   
 ---
