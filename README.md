@@ -70,5 +70,4 @@ I hold a Degree in Cyber Defense, and I am currently pursuing an M.Sc. in Comput
   <a href="https://squ4n.ch" target="_blank"><img src="https://img.shields.io/badge/Blog-squ4n.ch-141414?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/leo-teodoro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/X-05122A?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://tryhackme.com/p/SQU4NCH" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" /></a>
 </p>
